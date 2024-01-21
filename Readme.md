@@ -10,9 +10,6 @@ This guide covers the setup process, deployment steps, and security best practic
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
-## Prerequisites
-
 Before you begin, ensure you have the following installed and properly configured:
 
 - [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10): Upgrade to WSL version 2 for enhanced performance and compatibility with Docker Desktop.
